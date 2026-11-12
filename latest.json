@@ -1,8 +1,8 @@
 {
-  "versionName": "1.1.4",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.1.4/izzlab-1.1.4.apk",
-  "notes": "Ujian kemas kini: baiki paparan status dan nota perubahan",
+  "versionName": "1.1.5",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.1.5/izzlab-1.1.5.apk",
+  "notes": "Attribution peta kini mula tertutup - tekan ikon (i) untuk lihat kredit. Panel radar hujan kini rapat di atas tanpa gap pada telefon.",
   "mandatory": false,
-  "releasedAt": "2026-11-12T16:20:47.598Z"
+  "releasedAt": "2026-11-12T16:48:57.792Z"
 }
