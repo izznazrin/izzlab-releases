@@ -1,8 +1,8 @@
 {
-  "versionName": "1.2.1",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.1/izzlab-1.2.1.apk",
-  "notes": "Peta kini bermula pada zoom lebih dekat (z9) supaya pola hujan lebih jelas",
+  "versionName": "1.2.2",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.2/izzlab-1.2.2.apk",
+  "notes": "Panel radar dipindah ke bawah skrin. Butang peta default zoom/kompas/lokasi dibuang, diganti butang custom. Butang lokasi muncul hanya bila dot pengguna bukan di tengah peta - tekan akan terbang ke lokasi pada zoom 9. Butang utara muncul hanya bila peta diputar atau 3D - tekan akan kembali utara dan 2D.",
   "mandatory": false,
-  "releasedAt": "2026-11-14T18:03:27.188Z"
+  "releasedAt": "2026-11-14T18:33:00.076Z"
 }
