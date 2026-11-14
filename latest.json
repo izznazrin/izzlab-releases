@@ -1,8 +1,8 @@
 {
-  "versionName": "1.1.6",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.1.6/izzlab-1.1.6.apk",
-  "notes": "Baiki attribution peta: satu tap untuk buka, satu tap untuk tutup. Panel radar hujan kini rapat di atas tanpa gap pada telefon.",
+  "versionName": "1.2.0",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.0/izzlab-1.2.0.apk",
+  "notes": "Dot biru lokasi kini hidup dan bergerak sendiri ikut anda (GPS tepat, dikemas kini berterusan) tanpa perlu tekan butang 'cari lokasi saya'. Kamera hanya auto-pusat sekali; GPS dijeda bila anda tinggalkan tab peta untuk jimat bateri.",
   "mandatory": false,
-  "releasedAt": "2026-11-12T16:59:25.404Z"
+  "releasedAt": "2026-11-14T17:38:43.000Z"
 }
