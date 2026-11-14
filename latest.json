@@ -1,8 +1,8 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.3/izzlab-1.2.3.apk",
-  "notes": "Animasi radar kini menunggu tile sebelum menukar frame: label/slider tidak lagi mendahului hujan yang belum dimuat. Preload satu frame ke depan, penunjuk Memuatkan ber-debounce, animasi dijeda semasa peta digerakkan.",
+  "versionName": "1.2.4",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.4/izzlab-1.2.4.apk",
+  "notes": "Ikon tab Peta kini ikon peta. Footer di tab Tentang dibuang.",
   "mandatory": false,
-  "releasedAt": "2026-11-14T19:17:14.416Z"
+  "releasedAt": "2026-11-14T19:39:56.934Z"
 }
