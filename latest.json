@@ -1,8 +1,8 @@
 {
-  "versionName": "1.2.0",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.0/izzlab-1.2.0.apk",
-  "notes": "Dot biru lokasi kini hidup dan bergerak sendiri ikut anda (GPS tepat, dikemas kini berterusan) tanpa perlu tekan butang 'cari lokasi saya'. Kamera hanya auto-pusat sekali; GPS dijeda bila anda tinggalkan tab peta untuk jimat bateri.",
+  "versionName": "1.2.1",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.2.1/izzlab-1.2.1.apk",
+  "notes": "Peta kini bermula pada zoom lebih dekat (z9) supaya pola hujan lebih jelas",
   "mandatory": false,
-  "releasedAt": "2026-11-14T17:38:43.000Z"
+  "releasedAt": "2026-11-14T18:03:27.188Z"
 }
