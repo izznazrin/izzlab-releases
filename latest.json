@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.8",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.8/izzlab-1.3.8.apk",
-  "notes": "Laluan Rumah dan Pejabat kini muncul sendiri di peta bila kedua-dua lokasi disimpan. Ada butang tukar arah (Rumah ke Pejabat / Pejabat ke Rumah) dan ikon maklumat privasi pada ringkasan laluan.",
+  "versionName": "1.3.9",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.9/izzlab-1.3.9.apk",
+  "notes": "Betulkan pin Pejabat yang tertutup kad laluan: peta kini simpan ruang di bahagian atas supaya kedua-dua pin Rumah dan Pejabat sentiasa kelihatan.",
   "mandatory": false,
-  "releasedAt": "2026-11-18T15:44:17.256Z"
+  "releasedAt": "2026-11-18T15:53:05.122Z"
 }
