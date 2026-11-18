@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.6",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.6/izzlab-1.3.6.apk",
-  "notes": "Peta tidak lagi berkelip semasa tukar tab atau tekan 'Lihat di peta'. Toast tidak lagi menutup tab bar selepas simpan pin.",
+  "versionName": "1.3.7",
+  "versionCode": 21,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.7/izzlab-1.3.7.apk",
+  "notes": "Tambah laluan Rumah → Pejabat: buka tab Lokasi, tekan 'Tunjuk laluan di peta' untuk lihat jalan sebenar antara dua pin, lengkap dengan jarak dan anggaran masa.",
   "mandatory": false,
-  "releasedAt": "2026-11-18T14:57:46.754Z"
+  "releasedAt": "2026-11-18T15:16:51.194Z"
 }
