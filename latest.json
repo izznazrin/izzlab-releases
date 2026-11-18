@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.4",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.4/izzlab-1.3.4.apk",
-  "notes": "Kemas kini dalaman: kod peta & radar disusun semula supaya lebih stabil. Tiada perubahan pada cara guna.",
+  "versionName": "1.3.5",
+  "versionCode": 19,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.5/izzlab-1.3.5.apk",
+  "notes": "Pin Rumah & Pejabat kini melekat pada peta: tiada lagi kesan 'terapung' semasa peta digeser laju.",
   "mandatory": false,
-  "releasedAt": "2026-11-18T14:29:05.764Z"
+  "releasedAt": "2026-11-18T14:38:52.968Z"
 }
