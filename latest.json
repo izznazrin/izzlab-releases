@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.7",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.7/izzlab-1.3.7.apk",
-  "notes": "Tambah laluan Rumah → Pejabat: buka tab Lokasi, tekan 'Tunjuk laluan di peta' untuk lihat jalan sebenar antara dua pin, lengkap dengan jarak dan anggaran masa.",
+  "versionName": "1.3.8",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.8/izzlab-1.3.8.apk",
+  "notes": "Laluan Rumah dan Pejabat kini muncul sendiri di peta bila kedua-dua lokasi disimpan. Ada butang tukar arah (Rumah ke Pejabat / Pejabat ke Rumah) dan ikon maklumat privasi pada ringkasan laluan.",
   "mandatory": false,
-  "releasedAt": "2026-11-18T15:16:51.194Z"
+  "releasedAt": "2026-11-18T15:44:17.256Z"
 }
