@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.0",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.0/izzlab-1.3.0.apk",
-  "notes": "Pin lokasi Rumah & Pejabat: simpan dari lokasi semasa atau tekan lama pada peta, lihat marker di peta, dan urus (namakan/padam/lihat di peta) dalam tab Lokasi. Data disimpan dalam peranti.",
+  "versionName": "1.3.1",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.1/izzlab-1.3.1.apk",
+  "notes": "Peta kini dibuka pada bingkai Rumah + Pejabat: kedua-dua lokasi terus kelihatan walaupun anda berada jauh. Butang lokasi masih boleh terbang ke dot biru.",
   "mandatory": false,
-  "releasedAt": "2026-11-18T10:06:53.085Z"
+  "releasedAt": "2026-11-18T10:40:40.747Z"
 }
