@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.3",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.3/izzlab-1.3.3.apk",
-  "notes": "Animasi radar kini bertukar frame tanpa berkelip, jadi hujan nampak sambung. Peta juga dibuka sedikit lebih dekat (zoom 10).",
+  "versionName": "1.3.4",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/izznazrin/izzlab-releases/releases/download/v1.3.4/izzlab-1.3.4.apk",
+  "notes": "Kemas kini dalaman: kod peta & radar disusun semula supaya lebih stabil. Tiada perubahan pada cara guna.",
   "mandatory": false,
-  "releasedAt": "2026-11-18T11:01:34.712Z"
+  "releasedAt": "2026-11-18T14:29:05.764Z"
 }
